@@ -1,7 +1,8 @@
 repo_name: tdubs42/web-module-project-custom-hook
 report_id: 23e4e1da34386917b74e12fcc4f3e4f4
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T22:08:40+00:00'
+timestamp: '2024-01-04T15:15:50+00:00'
 requested_by: wlongmireBloomTech
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook
   detection_source: Repo Metadata
 - name: React
   description: A JavaScript library for building user interfaces
@@ -27,7 +29,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -39,6 +41,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -48,6 +51,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -62,7 +66,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -76,7 +80,7 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -90,7 +94,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -105,7 +109,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -119,7 +123,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -146,7 +150,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -160,7 +164,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -174,7 +178,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18162/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-01-12 23:09:29.000000000 Z
@@ -188,7 +192,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
   detection_source: package.json
   last_updated_by: Warren C. Longmire
   last_updated_on: 2021-03-17 17:07:38.000000000 Z
