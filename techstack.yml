@@ -1,0 +1,198 @@
+repo_name: tdubs42/web-module-project-custom-hook
+report_id: 23e4e1da34386917b74e12fcc4f3e4f4
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:23:56+00:00'
+requested_by: wlongmireBloomTech
+provider: github
+branch: main
+detected_tools_count: 13
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.19.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.27.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: recharts
+  description: React charts
+  package_url: https://www.npmjs.com/recharts
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18162/default_77d2e8738857baa38b19bd635d4e8653809e03e4.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-01-12 23:09:29.000000000 Z
+- name: sass
+  description: A pure JavaScript implementation of Sass
+  package_url: https://www.npmjs.com/sass
+  version: 1.32.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16057/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/tdubs42/web-module-project-custom-hook/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Warren C. Longmire
+  last_updated_on: 2021-03-17 17:07:38.000000000 Z
